@@ -5,8 +5,7 @@
 [Modeling Work Order Responses.pdf](https://github.com/user-attachments/files/23973552/Modeling.Work.Order.Responses.pdf)
 
 
-### Here's the link to my code! 
-
-[Uploading WorkOrderPrecipitationAnalysis.ipynb…]()
+### Here's the link to my notebook code! 
+https://colab.research.google.com/drive/1dyD_HEOk-Wc5BOccffpIxWIF92GqlW5K?usp=sharing 
 
 
