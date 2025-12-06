@@ -1,6 +1,6 @@
 
 ### Kevin Bentovoja
-AOS C111 - Intro to Machine Learning for Physical Sciences
+
 
 This project uses multiple regression techniques to model how UCLA Facilities Management work orders scale with varying levels of precipitation.
 
